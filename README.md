@@ -19,4 +19,4 @@ Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
 
-[fixma](https://www.figma.com/file/H14XmEXWVlhYZi90lunSyY/Untitled?node-id=0%3A1&t=BskZXNjb1Kg8szvh-1)
+[fixma](https://www.figma.com/file/H14XmEXWVlhYZi90lunSyY/Untitled?node-id=16%3A1359&t=1LjK9WZucK06Xpjo-1)
